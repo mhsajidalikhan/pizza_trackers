@@ -7,6 +7,7 @@ import Table from '@/Components/Table';
 
 const columns = [
     'size',
+    'chef',
     'status'
 ];
 
